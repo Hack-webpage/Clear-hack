@@ -1,0 +1,4 @@
+#!/bin/bash
+#welcome to my profile
+echo "welcome to my profile"
+echo "Thank you all"
